@@ -1,7 +1,5 @@
 # My First Project: Chatbot NLP Model and Pose Estimation with Mediapipe
 
-![Project Banner](link_to_banner_image.png) <!-- If you have a banner image, replace "link_to_banner_image.png" with the actual link -->
-
 ## Introduction
 
 Welcome to my first-ever project! In this repository, I've developed a Chatbot NLP model and implemented pose estimation using Mediapipe. The project also includes a web application using Flask to deploy these functionalities. I'm excited to share my journey of building this project from scratch and achieving my goals.
