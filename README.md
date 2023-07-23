@@ -51,7 +51,3 @@ In the future, I plan to enhance the chatbot's capabilities, optimize the pose e
 I want to express my gratitude to all the online tutorials, documentation, and forums that helped me learn and grow as a developer throughout this project.
 
 Thank you for checking out my first-ever project! I hope you find it interesting and useful.
-
----
-
-Feel free to personalize this narrative further with any specific details you want to highlight or additional information you'd like to include. Good luck with your project, and happy coding!
